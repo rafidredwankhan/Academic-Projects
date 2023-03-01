@@ -1,0 +1,26 @@
+body {
+  background-color: lightpink;
+}
+
+h1{
+  font-family: Helvetica;
+  word-spacing: 30px;
+  color: orangered;
+  text-align: center;
+  padding: 15px 40px 30px 100px;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+  font-size: 30px;
+  /*text-shadow: 2px 2px;*/
+  font-family: Lucida Console;
+
+}
+
+.center {
+  text-align: center;
+  border: 3px solid green;
+  padding: 40px;
+}

@@ -1,0 +1,61 @@
+body {
+  background-color: lightpink;
+}
+
+div.a {
+  line-height: 2.9;
+}
+
+div.b {
+  line-height: 3.5;
+}
+
+h1{
+  font-family: Helvetica;
+  word-spacing: 30px;
+  color: orangered;
+  text-align: center;
+  padding: 25px 40px 75px 100px;
+}
+
+.center {
+  text-align: center;
+  border: 3px solid green;
+  padding: 40px;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-size: 35px;
+  /*text-shadow: 2px 2px;*/
+  font-family: Lucida Console;
+
+}
+
+
+h3 {
+  color: black;
+  text-align: center;
+  font-size: 22px;
+  /*text-shadow: 2px 2px;*/
+  font-family: Lucida Console;
+
+}
+
+h4 {
+  color: cadetblue;
+  text-align: center;
+  font-size: 22px;
+  /*text-shadow: 2px 2px;*/
+  font-family: Lucida Console;
+}
+
+a{
+  font-size: 22px;
+  color: lightyellow;
+  border: 1px solid black;
+  margin: 20px 50px;
+  text-align: center;
+
+}

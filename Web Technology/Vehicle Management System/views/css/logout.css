@@ -1,0 +1,12 @@
+body {
+  background-color: lightpink;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+  font-size: 30px;
+  /*text-shadow: 2px 2px;*/
+  font-family: Lucida Console;
+  padding: 15px 40px 70px 100px;
+}
